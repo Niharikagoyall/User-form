@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  label {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px
+  }
+  .nameClass,.datepickerclass,.numberClass,.emailClass,.submitButton{
+    padding: 10px;
+  }
